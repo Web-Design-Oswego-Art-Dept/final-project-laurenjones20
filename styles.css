@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+/*baseline grid
+0.8rem
+1.6rem
+2.4rem
+3.2rem
+4.0rem*/
+
+html{
+    font-family:'Gwendolyn', cursive;;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 1rem;
+    line-height: 1.6rem;
+}

@@ -145,3 +145,26 @@ a:active{
     font-size: medium;
     border: black;
 }
+
+header,footer{
+    background-color: white;
+    color: #c71585;
+    font-family:'Architects Daughter', cursive;;
+    font-size: large;
+    top: 0px;
+}
+
+header{
+    position:relative;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    text-align: center;
+    top: 0px;
+    height: 10%;
+}
+    
+    
+footer{
+    padding-bottom: .2rem;
+    padding-top: .2rem;
+}
